@@ -7,6 +7,9 @@ Download the Python 3 installer package from the official website and install it
 Run the following in the terminal to install the Pygame library
 
 pip3 install pygame
+
+
+
 Another alternative would be to import the contents of the repository in a PyCharm project. The Pygame library can be installed in a virtual environment of PyCharm using the steps mentioned here.
 
 # Running the application
